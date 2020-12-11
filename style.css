@@ -1,0 +1,54 @@
+body { 
+	background-image: url(https://i.pinimg.com/originals/80/5d/94/805d94108c85b14ab550fb02092f04b0.gif);
+ background-size: auto;
+ background-position: stretch;
+background-repeat: repeat;
+ }
+ .ggwp {
+ 	background-color: #6D716E;
+	width:500px
+ 	padding:70px;
+ 	margin:300px ;
+ 	align-items: center;
+ 	text-align: center;
+ 	vertical-align: middle;
+ 	border-radius: 50px;
+ 	box-shadow: 0 10PX 30PX rgba(0,0,200,.1);
+
+ }
+ p {
+ 	font-family: 'Staatliches', cursive;
+ 	font-size: 27px;
+ 	font-weight: bold;
+ }
+
+ .gj {
+ 	font-family: 'Staatliches', cursive;
+ 	font-size: 40px;
+ 	font-weight: bolder;
+ }
+
+ a {
+ 	color:black;
+ 	line-height: 1px
+ }
+
+ ul {
+ 	list-style: none;
+ 	text-align: center;
+ 	padding:0px;
+ 	font-size: 60px;
+ }
+
+ li {
+ 	display: inline;
+ 	margin: 5px;
+ }
+
+@media (max-width:500px) {
+.ggwp {
+	width:400px;
+}
+}
+
+
